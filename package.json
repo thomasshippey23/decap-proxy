@@ -1,5 +1,6 @@
 {
 	"name": "decap-proxy",
+	"packageManager": "yarn@1.22.22",
 	"version": "0.0.0",
 	"private": true,
 	"type": "module",
